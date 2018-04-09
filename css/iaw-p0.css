@@ -39,6 +39,12 @@ h4, h5{
     }
 }
 
+@media (max-width: 480px){
+    #txt-header {
+        font-size: large;
+    }
+}
+
 @media (max-width: 950px){
     .escudo{
         display: block;
@@ -173,8 +179,8 @@ tr:first-child{
 }
 
 .escudo-tabla{
-    width: 25px;
-    height: 25px;
+    width: 23px;
+    height: 23px;
     margin-right: 20px;
 }
 
