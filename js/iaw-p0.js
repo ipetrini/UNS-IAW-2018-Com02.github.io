@@ -388,15 +388,15 @@ function mostrarNoticiasReducidas(noticias) {
             var li = $("<li></li>").attr("data-target", "#carousel-noticias").attr("data-slide-to", index).attr("class", c);
             $("#carousel-slide").append(li);
             var img = $("<img>").attr("class", "d-block w-100").attr("src", noticia.imagen);
-            var hiper = $("<a></a>").attr("href", "noticia.html?noticia=" + noticia.titulo).append(img);
+            var hiper = $("<a></a>").attr("href", "noticia.html?noticia=" + noticia.id).append(img);
 
-            var div2 = $("<div></div>").attr("class", "carousel-caption d-none d-md-block").append($("<a></a>").text(noticia.titulo).attr("class", "titulo").attr("href", "noticia.html?noticia=" + noticia.titulo).css("color", "white"));
+            var div2 = $("<div></div>").attr("class", "carousel-caption d-none d-md-block").append($("<a></a>").text(noticia.titulo).attr("class", "titulo").attr("href", "noticia.html?noticia=" + noticia.id).css("color", "white"));
             var div = $("<div></div>").attr("class", it).append(hiper).append(div2);
             $("#carousel-inn").append(div);
         } else {
             var img = $("<img>").attr("class", "card-img-top img-noticia-reducida").attr("src", noticia.imagen);
-            var hiper = $("<a></a>").attr("href", "noticia.html?noticia=" + noticia.titulo).append(img);
-            var div2 = $("<div></div>").attr("class", "card-body").append($("<a></a>").text(noticia.titulo).attr("href", "noticia.html?noticia=" + noticia.titulo).attr("class", "titulo card-title")).append($("<p></p>").text(noticia.sintesis).attr("class", "card-text mt-2"));
+            var hiper = $("<a></a>").attr("href", "noticia.html?noticia=" + noticia.id).append(img);
+            var div2 = $("<div></div>").attr("class", "card-body").append($("<a></a>").text(noticia.titulo).attr("href", "noticia.html?noticia=" + noticia.id).attr("class", "titulo card-title")).append($("<p></p>").text(noticia.sintesis).attr("class", "card-text mt-2"));
             var div = $("<div></div>").attr("class", "card text-justify").attr("id", "card-cuerpo").append(hiper).append(div2);
             $("#noticias-sec").append($("<div></div>").attr("class","col-sm-6").append(div));
         }
