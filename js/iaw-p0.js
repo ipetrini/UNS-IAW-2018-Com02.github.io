@@ -415,7 +415,7 @@ function mostrarNoticia() {
             noticias = this.responseText;
             var objeto = JSON.parse(noticias);
             $.each(objeto, function (i, noticia) {
-                if (noticia.titulo === n) {
+                if (noticia.id === n) {
                     mostrarNoticiaCompleta(noticia);
                     return false;
                 }
