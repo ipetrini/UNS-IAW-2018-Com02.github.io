@@ -407,16 +407,16 @@ function mostrarNoticiasReducidas(noticias) {
 function mostrarNoticia() {
     var url_string = window.location.href;
     var url = new URL(url_string);
-    var n = url.searchParams.get("noticia");
+    var n = parseInt(url.searchParams.get("noticia"));
 
     xmlhttp = new XMLHttpRequest();
     xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             noticias = this.responseText;
             var objeto = JSON.parse(noticias);
-            $.each(objeto, function (i, noticia) {
-                if (noticia.id === n) {
-                    mostrarNoticiaCompleta(noticia);
+            $.each(objeto, function (i, not) {
+                if (not.id === n) {
+                    mostrarNoticiaCompleta(not);
                     return false;
                 }
             });
