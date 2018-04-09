@@ -1,0 +1,3999 @@
+[
+    {
+        "numero": 1,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "18/08/2017",
+                "horario": "20:15",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Alavés",
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+			{
+                "id_partido": 2,
+                "fecha": "18/08/2017",
+                "horario": "22:15",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Las Palmas",
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "19/08/2017",
+                "horario": "18:15",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Real Sociedad",
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "23"				
+            },
+            {
+                "id_partido": 4,
+                "fecha": "19/08/2017",
+                "horario": "20:15",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Atlético",	
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "19/08/2017",
+                "horario": "22:15",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Espanyol",
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"				
+            },
+            {
+                "id_partido": 6,
+                "fecha": "20/08/2017",
+                "horario": "18:15",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Getafe",
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "20/08/2017",
+                "horario": "20:15",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Betis",	
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "20/08/2017",
+                "horario": "22:15",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Real Madrid",
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "03"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "21/08/2017",
+                "horario": "20:15",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Villareal",
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "21/08/2017",
+                "horario": "22:00",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Eibar",	
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            }
+        ]	
+    },
+	{
+        "numero": 2,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "25/08/2017",
+                "horario": "20:15",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Villareal",
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"
+            },
+			{
+                "id_partido": 2,
+                "fecha": "25/08/2017",
+                "horario": "22:00",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Celta",
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "26/08/2017",
+                "horario": "18:15",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Barcelona",
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"				
+            },
+            {
+                "id_partido": 4,
+                "fecha": "26/08/2017",
+                "horario": "20:15",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Deportivo",	
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "26/08/2017",
+                "horario": "20:15",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Málaga",
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"				
+            },
+            {
+                "id_partido": 6,
+                "fecha": "26/08/2017",
+                "horario": "22:15",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Atlético",
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "15"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "27/08/2017",
+                "horario": "18:15",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Leganés",	
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "27/08/2017",
+                "horario": "18:15",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Athletic",
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "27/08/2017",
+                "horario": "20:15",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Sevilla",
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "27/08/2017",
+                "horario": "22:15",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Valencia",	
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"
+            }
+        ]	
+    },
+	{
+        "numero": 3,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "08/09/2017",
+                "horario": "21:00",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Getafe",
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"
+            },
+			{
+                "id_partido": 2,
+                "fecha": "09/09/2017",
+                "horario": "13:00",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Levante",
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "09/09/2017",
+                "horario": "16:15",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Atlético",
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"				
+            },
+            {
+                "id_partido": 4,
+                "fecha": "09/09/2017",
+                "horario": "18:30",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Eibar",	
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "09/09/2017",
+                "horario": "20:45",
+                "equipo_local": "Barcelonae",
+                "equipo_visitante": "Espanyol",
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "50"				
+            },
+            {
+                "id_partido": 6,
+                "fecha": "10/09/2017",
+                "horario": "12:00",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Real Sociedad",
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "24"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "10/09/2017",
+                "horario": "16:15",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Girona",	
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "10/09/2017",
+                "horario": "18:30",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Alavés",
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "10/09/2017",
+                "horario": "20:45",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Betis",
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "31"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "11/09/2017",
+                "horario": "21:00",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Las Palmas",	
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "13"
+            }
+        ]	
+    },
+	{
+        "numero": 4,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "15/09/2017",
+                "horario": "21:00",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Leganés",
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+			{
+                "id_partido": 2,
+                "fecha": "16/09/2017",
+                "horario": "13:00",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Valencia",
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "16/09/2017",
+                "horario": "16:15",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Barcelona",
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"				
+            },
+            {
+                "id_partido": 4,
+                "fecha": "16/09/2017",
+                "horario": "18:30",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Deportivo",	
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "16/09/2017",
+                "horario": "20:45",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Málaga",
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"				
+            },
+            {
+                "id_partido": 6,
+                "fecha": "17/09/2017",
+                "horario": "12:00",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Villareal",
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "03"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "17/09/2017",
+                "horario": "16:15",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Sevilla",	
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "17/09/2017",
+                "horario": "18:30",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Athletic",
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "17/09/2017",
+                "horario": "20:45",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Real Madrid",
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "13"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "18/09/2017",
+                "horario": "21:00",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Celta",	
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            }
+        ]	
+    },
+	{
+        "numero": 5,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "19/09/2017",
+                "horario": "20:00",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Málaga",
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "50"
+            },
+			{
+                "id_partido": 2,
+                "fecha": "19/09/2017",
+                "horario": "22:00",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Eibar",
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "61"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "20/09/2017",
+                "horario": "20:00",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Girona",
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"				
+            },
+            {
+                "id_partido": 4,
+                "fecha": "20/09/2017",
+                "horario": "20:00",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Atlético",	
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "20/09/2017",
+                "horario": "21:00",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Alavés",
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"				
+            },
+            {
+                "id_partido": 6,
+                "fecha": "20/09/2017",
+                "horario": "22:00",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Betis",
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "20/09/2017",
+                "horario": "22:00",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Las Palmas",	
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "21/09/2017",
+                "horario": "20:00",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Espanyol",
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "21/09/2017",
+                "horario": "21:00",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Getafe",
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "21/09/2017",
+                "horario": "22:00",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Real Sociedad",	
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"
+            }
+        ]	
+    },
+	{
+        "numero": 6,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "23/09/2017",
+                "horario": "13:00",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Sevilla",
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"
+            },
+			{
+                "id_partido": 2,
+                "fecha": "23/09/2017",
+                "horario": "16:15",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Real Madrid",
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "23/09/2017",
+                "horario": "18:30",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Athletic",
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "33"				
+            },
+            {
+                "id_partido": 4,
+                "fecha": "23/09/2017",
+                "horario": "20:45",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Barcelona",	
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "03"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "24/09/2017",
+                "horario": "12:00",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Deportivo",
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "41"				
+            },
+            {
+                "id_partido": 6,
+                "fecha": "24/09/2017",
+                "horario": "16:15",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Villareal",
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "40"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "24/09/2017",
+                "horario": "18:30",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Leganés",	
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "24/09/2017",
+                "horario": "18:30",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Celta",
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "04"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "24/09/2017",
+                "horario": "20:45",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Valencia",
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "23"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "25/09/2017",
+                "horario": "21:00",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Levante",	
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "40"
+            }
+        ]	
+    },
+	{
+        "numero": 7,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "29/09/2017",
+                "horario": "21:00",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Girona",
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "33"
+            },
+			{
+                "id_partido": 2,
+                "fecha": "30/09/2017",
+                "horario": "13:00",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Getafe",
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "30/09/2017",
+                "horario": "16:15",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Málaga",
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"				
+            },
+            {
+                "id_partido": 4,
+                "fecha": "30/09/2017",
+                "horario": "18:30",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Alavés",	
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "30/09/2017",
+                "horario": "20:45",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Atlético",
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"				
+            },
+            {
+                "id_partido": 6,
+                "fecha": "01/10/2017",
+                "horario": "12:00",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Betis",
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "44"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "01/10/2017",
+                "horario": "16:15",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Las Palmas",	
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "01/10/2017",
+                "horario": "18:30",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Eibar",
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "01/10/2017",
+                "horario": "18:30",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Athletic",
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "32"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "01/10/2017",
+                "horario": "20:45",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Espanyol",	
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"
+            }
+        ]	
+    },
+	{
+        "numero": 8,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "13/10/2017",
+                "horario": "21:00",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Levante",
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"
+            },
+			{
+                "id_partido": 2,
+                "fecha": "14/10/2017",
+                "horario": "13:00",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Sevilla",
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "14/10/2017",
+                "horario": "16:15",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Real Madrid",
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"				
+            },
+            {
+                "id_partido": 4,
+                "fecha": "14/10/2017",
+                "horario": "18:30",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Real Sociedad",	
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "14/10/2017",
+                "horario": "20:45",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Barcelona",
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"				
+            },
+            {
+                "id_partido": 6,
+                "fecha": "15/10/2017",
+                "horario": "12:00",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Deportivo",
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "15/10/2017",
+                "horario": "16:15",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Villareal",	
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "15/10/2017",
+                "horario": "18:30",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Leganés",
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "15/10/2017",
+                "horario": "20:45",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Valencia",
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "36"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "16/10/2017",
+                "horario": "21:00",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Celta",	
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "25"
+            }
+        ]	
+    },
+	{
+        "numero": 9,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "21/10/2017",
+                "horario": "13:00",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Getafe",
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+			{
+                "id_partido": 2,
+                "fecha": "21/10/2017",
+                "horario": "16:15",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Alavés",
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "21/10/2017",
+                "horario": "18:30",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Sevilla",
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "40"				
+            },
+            {
+                "id_partido": 4,
+                "fecha": "21/10/2017",
+                "horario": "20:45",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Málaga",	
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "22/10/2017",
+                "horario": "12:00",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Las Palmas",
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "40"				
+            },
+            {
+                "id_partido": 6,
+                "fecha": "22/10/2017",
+                "horario": "16:15",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Atlético",
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "22/10/2017",
+                "horario": "18:30",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Athletic",	
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "22/10/2017",
+                "horario": "20:45",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Eibar",
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "23/10/2017",
+                "horario": "20:00",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Espanyol",
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "23/10/2018",
+                "horario": "21:00",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Girona",	
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"
+            }
+        ]	
+    },
+	{
+        "numero": 10,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "28/10/2017",
+                "horario": "13:00",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Valencia",
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"
+            },
+			{
+                "id_partido": 2,
+                "fecha": "28/10/2017",
+                "horario": "18:30",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Villareal",
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "28/10/2017",
+                "horario": "20:45",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Barcelona",
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"				
+            },
+            {
+                "id_partido": 4,
+                "fecha": "28/10/2017",
+                "horario": "22:30",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Leganés",	
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "29/10/2017",
+                "horario": "12:00",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Real Sociedad",
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"				
+            },
+            {
+                "id_partido": 6,
+                "fecha": "29/10/2017",
+                "horario": "16:15",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Real Madrid",
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "29/10/2017",
+                "horario": "18:30",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Levante",	
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "29/10/2017",
+                "horario": "20:45",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Celta",
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "30/10/2017",
+                "horario": "21:00",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Betis",
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "30/10/2018",
+                "horario": "21:00",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Deportivo",	
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "13"
+            }
+        ]	
+    },
+	{
+        "numero": 11,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "03/11/2017",
+                "horario": "21:00",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Getafe",
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"
+            },
+			{
+                "id_partido": 2,
+                "fecha": "04/11/2017",
+                "horario": "13:00",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Leganés",
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "04/11/2017",
+                "horario": "16:15",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Atlético",
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"				
+            },
+            {
+                "id_partido": 4,
+                "fecha": "04/11/2017",
+                "horario": "18:30",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Espanyol",	
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "04/11/2017",
+                "horario": "20:45",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Sevilla",
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"				
+            },
+            {
+                "id_partido": 6,
+                "fecha": "05/11/2017",
+                "horario": "12:00",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Girona",
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "05/11/2017",
+                "horario": "16:15",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Athletic",	
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "31"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "05/11/2017",
+                "horario": "18:30",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Eibar",
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "31"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "05/11/2017",
+                "horario": "18:30",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Málaga",
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "05/11/2018",
+                "horario": "20:45",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Las Palmas",	
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"
+            }
+        ]	
+    },
+	{
+        "numero": 12,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "17/11/2017",
+                "horario": "21:00",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Real Sociedad",
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+			{
+                "id_partido": 2,
+                "fecha": "18/11/2017",
+                "horario": "13:00",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Alavés",
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "41"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "18/11/2017",
+                "horario": "16:15",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Barcelona",
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "03"				
+            },
+            {
+                "id_partido": 4,
+                "fecha": "18/11/2017",
+                "horario": "18:30",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Celta",	
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "18/11/2017",
+                "horario": "20:45",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Real Madrid",
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"				
+            },
+            {
+                "id_partido": 6,
+                "fecha": "19/11/2017",
+                "horario": "12:00",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Deportivo",
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "32"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "19/11/2017",
+                "horario": "16:15",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Valencia",	
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "19/11/2017",
+                "horario": "18:30",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Levante",
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "19/11/2017",
+                "horario": "20:45",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Villareal",
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "20/11/2018",
+                "horario": "21:00",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Betis",	
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "50"
+            }
+        ]	
+    },
+	{
+        "numero": 13,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "24/11/2017",
+                "horario": "21:00",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Leganés",
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+			{
+                "id_partido": 2,
+                "fecha": "25/11/2017",
+                "horario": "13:00",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Eibar",
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "25/11/2017",
+                "horario": "16:15",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Málaga",
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "32"				
+            },
+            {
+                "id_partido": 4,
+                "fecha": "25/11/2017",
+                "horario": "18:30",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Girona",	
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "25/11/2017",
+                "horario": "20:45",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Atlético",
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "05"				
+            },
+            {
+                "id_partido": 6,
+                "fecha": "26/11/2017",
+                "horario": "12:00",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Athletic",
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "26/11/2017",
+                "horario": "16:15",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Las Palmas",	
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "26/11/2017",
+                "horario": "18:30",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Sevilla",
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "23"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "26/11/2017",
+                "horario": "20:45",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Barcelona",
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "27/11/2018",
+                "horario": "21:00",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Getafe",	
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            }
+        ]	
+    },
+	{
+        "numero": 14,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "01/12/2017",
+                "horario": "21:00",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Levante",
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"
+            },
+			{
+                "id_partido": 2,
+                "fecha": "02/12/2017",
+                "horario": "13:00",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Celta",
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "02/12/2017",
+                "horario": "16:15",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Real Sociedad",
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"				
+            },
+            {
+                "id_partido": 4,
+                "fecha": "02/12/2017",
+                "horario": "18:30",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Deportivo",	
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "02/12/2017",
+                "horario": "20:45",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Real Madrid",
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"				
+            },
+            {
+                "id_partido": 6,
+                "fecha": "03/12/2017",
+                "horario": "12:00",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Villareal",
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "31"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "03/12/2017",
+                "horario": "16:15",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Valencia",	
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "03/12/2017",
+                "horario": "18:30",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Espanyol",
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "31"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "03/12/2017",
+                "horario": "20:45",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Betis",
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "04/12/2017",
+                "horario": "21:00",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Alavés",	
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "23"
+            }
+        ]	
+    },
+	{
+        "numero": 15,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "08/12/2017",
+                "horario": "21:00",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Las Palmas",
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"
+            },
+			{
+                "id_partido": 2,
+                "fecha": "09/12/2017",
+                "horario": "13:00",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Eibar",
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "09/12/2017",
+                "horario": "16:15",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Sevilla",
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "50"				
+            },
+            {
+                "id_partido": 4,
+                "fecha": "09/12/2017",
+                "horario": "18:30",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Leganés",	
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "09/12/2017",
+                "horario": "20:45",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Celta",
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"				
+            },
+            {
+                "id_partido": 6,
+                "fecha": "10/12/2017",
+                "horario": "12:00",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Málaga",
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "10/12/2017",
+                "horario": "16:15",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Atlético",	
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "10/12/2017",
+                "horario": "18:30",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Athletic",
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "10/12/2017",
+                "horario": "20:45",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Barcelona",
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "11/12/2017",
+                "horario": "21:00",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Girona",	
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            }
+        ]	
+    },
+	{
+        "numero": 16,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "15/12/2017",
+                "horario": "21:00",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Levante",
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "16/12/2017",
+                "horario": "16:15",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Real Sociedad",
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "16/12/2017",
+                "horario": "18:30",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Valencia",	
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "16/12/2017",
+                "horario": "20:45",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Alavés",
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"				
+            },
+            {
+                "id_partido": 5,
+                "fecha": "17/12/2017",
+                "horario": "12:00",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Getafe",
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 6,
+                "fecha": "17/12/2017",
+                "horario": "16:15",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Villareal",	
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "17/12/2017",
+                "horario": "18:30",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Espanyol",
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "17/12/2017",
+                "horario": "20:45",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Deportivo",
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "40"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "18/12/2017",
+                "horario": "21:00",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Betis",	
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "21/02/2018",
+                "horario": "18:45",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Real Madrid",	
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "13"
+            }
+        ]	
+    },
+	{
+        "numero": 17,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "19/12/2017",
+                "horario": "21:30",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Leganés",
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "20/12/2017",
+                "horario": "19:30",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Las Palmas",
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "20/12/2017",
+                "horario": "21:30",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Sevilla",	
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "31"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "21/12/2017",
+                "horario": "19:30",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Girona",
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "41"	
+            },
+            {
+                "id_partido": 5,
+                "fecha": "21/12/2017",
+                "horario": "21:30",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Málaga",
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 6,
+                "fecha": "22/12/2017",
+                "horario": "19:30",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Athletic",	
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "22/12/2017",
+                "horario": "21:30",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Atlético",
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "23/12/2017",
+                "horario": "13:00",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Barcelona",
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "03"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "23/12/2017",
+                "horario": "16:15",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Villareal",	
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "23/12/2017",
+                "horario": "18:30",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Celta",	
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "13"
+            }
+        ]	
+    },
+	{
+        "numero": 18,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "06/01/2018",
+                "horario": "13:00",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Getafe",
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "06/01/2018",
+                "horario": "16:15",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Girona",
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "06/01/2018",
+                "horario": "18:30",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Eibar",	
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "06/01/2018",
+                "horario": "20:45",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Betis",
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "35"	
+            },
+            {
+                "id_partido": 5,
+                "fecha": "07/01/2018",
+                "horario": "12:00",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Real Sociedad",
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 6,
+                "fecha": "07/01/2018",
+                "horario": "16:15",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Leganés",	
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "07/01/2018",
+                "horario": "18:30",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Alavés",
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "07/01/2018",
+                "horario": "18:30",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Deportivo",
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "07/01/2018",
+                "horario": "20:45",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Real Madrid",	
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "08/01/2018",
+                "horario": "21:00",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Espanyol",	
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            }
+        ]	
+    },
+	{
+        "numero": 19,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "12/01/2018",
+                "horario": "21:00",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Málaga",
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "13/01/2018",
+                "horario": "13:00",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Las Palmas",
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "60"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "13/01/2018",
+                "horario": "16:15",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Villareal",	
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "13/01/2018",
+                "horario": "18:30",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Atlético",
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"	
+            },
+            {
+                "id_partido": 5,
+                "fecha": "13/01/2018",
+                "horario": "20:45",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Valencia",
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"
+            },
+            {
+                "id_partido": 6,
+                "fecha": "14/01/2018",
+                "horario": "12:00",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Celta",	
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "14/01/2018",
+                "horario": "16:15",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Sevilla",
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "14/01/2018",
+                "horario": "18:30",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Athletic",
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "14/01/2018",
+                "horario": "20:45",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Barcelona",	
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "24"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "15/01/2018",
+                "horario": "21:00",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Leganés",	
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "32"
+            }
+        ]	
+    },
+	{
+        "numero": 20,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "19/01/2018",
+                "horario": "21:00",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Athletic",
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "20/01/2018",
+                "horario": "13:00",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Sevilla",
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "03"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "20/01/2018",
+                "horario": "16:15",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Girona",	
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "20/01/2018",
+                "horario": "18:30",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Levante",
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"	
+            },
+            {
+                "id_partido": 5,
+                "fecha": "20/01/2018",
+                "horario": "20:45",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Valencia",
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 6,
+                "fecha": "21/01/2018",
+                "horario": "12:00",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Leganés",	
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "21/01/2018",
+                "horario": "16:15",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Deportivo",
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "71"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "21/01/2018",
+                "horario": "18:30",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Celta",
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "21/01/2018",
+                "horario": "20:45",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Barcelona",	
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "05"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "22/01/2018",
+                "horario": "21:00",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Málaga",	
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            }
+        ]	
+    },
+	{
+        "numero": 21,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "26/01/2018",
+                "horario": "21:00",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Eibar",
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "27/01/2018",
+                "horario": "13:00",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Levante",
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "27/01/2018",
+                "horario": "16:15",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Real Madrid",	
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "14"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "27/01/2018",
+                "horario": "18:30",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Girona",
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"	
+            },
+            {
+                "id_partido": 5,
+                "fecha": "27/01/2018",
+                "horario": "20:45",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Real Sociedad",
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "42"
+            },
+            {
+                "id_partido": 6,
+                "fecha": "28/01/2018",
+                "horario": "12:00",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Espanyol",	
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "32"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "28/01/2018",
+                "horario": "16:15",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Las Palmas",
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "28/01/2018",
+                "horario": "18:30",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Getafe",
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "28/01/2018",
+                "horario": "20:45",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Alavés",	
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "29/01/2018",
+                "horario": "21:00",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Betis",	
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "32"
+            }
+        ]	
+    },
+	{
+        "numero": 22,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "02/02/2018",
+                "horario": "21:00",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Deportivo",
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "50"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "03/02/2018",
+                "horario": "13:00",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Sevilla",
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "51"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "03/02/2018",
+                "horario": "16:15",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Villareal",	
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "03/02/2018",
+                "horario": "18:30",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Celta",
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"	
+            },
+            {
+                "id_partido": 5,
+                "fecha": "03/02/2018",
+                "horario": "20:45",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Real Madrid",
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"
+            },
+            {
+                "id_partido": 6,
+                "fecha": "04/02/2018",
+                "horario": "12:00",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Leganés",	
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "04/02/2018",
+                "horario": "16:15",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Barcelona",
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "04/02/2018",
+                "horario": "18:30",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Athletic",
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "04/02/2018",
+                "horario": "20:45",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Valencia",	
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "05/02/2018",
+                "horario": "21:00",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Málaga",	
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            }
+        ]	
+    },
+	{
+        "numero": 23,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "09/02/2018",
+                "horario": "21:00",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Las Palmas",
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "10/02/2018",
+                "horario": "13:00",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Alavés",
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "10/02/2018",
+                "horario": "16:15",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Atlético",	
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "10/02/2018",
+                "horario": "18:30",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Eibar",
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"	
+            },
+            {
+                "id_partido": 5,
+                "fecha": "10/02/2018",
+                "horario": "20:45",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Real Sociedad",
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "52"
+            },
+            {
+                "id_partido": 6,
+                "fecha": "11/02/2018",
+                "horario": "12:00",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Girona",	
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "11/02/2018",
+                "horario": "16:15",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Getafe",
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "11/02/2018",
+                "horario": "18:30",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Espanyol",
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "22"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "11/02/2018",
+                "horario": "20:45",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Levante",	
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "31"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "12/02/2018",
+                "horario": "21:00",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Betis",	
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            }
+        ]	
+    },
+	{
+        "numero": 24,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "16/02/2018",
+                "horario": "21:00",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Leganés",
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "17/02/2018",
+                "horario": "13:00",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Sevilla",
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "17/02/2018",
+                "horario": "16:15",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Barcelona",	
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "17/02/2018",
+                "horario": "18:30",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Deportivo",
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"	
+            },
+            {
+                "id_partido": 5,
+                "fecha": "17/02/2018",
+                "horario": "20:45",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Valencia",
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"
+            },
+            {
+                "id_partido": 6,
+                "fecha": "18/02/2018",
+                "horario": "12:00",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Levante",	
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "18/02/2018",
+                "horario": "16:15",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Athletic",
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "18/02/2018",
+                "horario": "18:30",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Villareal",
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "18/02/2018",
+                "horario": "20:45",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Real Madrid",	
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "35"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "19/02/2018",
+                "horario": "21:00",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Celta",	
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"
+            }
+        ]	
+    },
+	{
+        "numero": 25,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "23/02/2018",
+                "horario": "21:00",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Espanyol",
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "24/02/2018",
+                "horario": "13:00",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Eibar",
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "24/02/2018",
+                "horario": "16:15",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Alavés",	
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "40"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "24/02/2018",
+                "horario": "18:30",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Las Palmas",
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"	
+            },
+            {
+                "id_partido": 5,
+                "fecha": "24/02/2018",
+                "horario": "20:45",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Girona",
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "61"
+            },
+            {
+                "id_partido": 6,
+                "fecha": "25/02/2018",
+                "horario": "12:00",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Getafe",	
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "25/02/2018",
+                "horario": "16:15",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Málaga",
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "25/02/2018",
+                "horario": "18:30",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Real Sociedad",
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "25/02/2018",
+                "horario": "20:45",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Atlético",	
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "25"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "25/02/2018",
+                "horario": "21:00",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Betis",	
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"
+            }
+        ]	
+    },
+	{
+        "numero": 26,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "27/02/2018",
+                "horario": "20:00",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Real Madrid",
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "27/02/2018",
+                "horario": "21:30",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Celta",
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "28/02/2018",
+                "horario": "19:30",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Deportivo",	
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "28/02/2018",
+                "horario": "19:30",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Sevilla",
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"	
+            },
+            {
+                "id_partido": 5,
+                "fecha": "28/02/2018",
+                "horario": "19:30",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Valencia",
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+            {
+                "id_partido": 6,
+                "fecha": "28/02/2018",
+                "horario": "21:30",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Villareal",	
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "28/02/2018",
+                "horario": "21:30",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Leganés",
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "40"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "01/03/2018",
+                "horario": "19:30",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Real Sociedad",
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "01/03/2018",
+                "horario": "21:00",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Barcelona",	
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "01/03/2018",
+                "horario": "21:30",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Levante",	
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            }
+        ]	
+    },
+	{
+        "numero": 27,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "03/03/2018",
+                "horario": "13:00",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Girona",
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "03/03/2018",
+                "horario": "16:15",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Athletic",
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"				
+            },
+            {
+                "id_partido": 3,
+                "fecha": "03/03/2018",
+                "horario": "18:30",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Eibar",	
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "03/03/2018",
+                "horario": "18:30",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Málaga",
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"	
+            },
+            {
+                "id_partido": 5,
+                "fecha": "03/03/2018",
+                "horario": "20:45",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Getafe",
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "31"
+            },
+            {
+                "id_partido": 6,
+                "fecha": "04/03/2018",
+                "horario": "12:00",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Espanyol",	
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "04/03/2018",
+                "horario": "16:15",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Atlético",
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "10"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "04/03/2018",
+                "horario": "18:30",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Alavés",
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "04/03/2018",
+                "horario": "20:45",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Betis",	
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "05/03/2018",
+                "horario": "21:00",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Las Palmas",	
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            }
+        ]	
+    },
+	{
+        "numero": 28,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "09/03/2018",
+                "horario": "21:00",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Deportivo",
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "10/03/2018",
+                "horario": "13:00",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Real Madrid",
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"			
+            },
+            {
+                "id_partido": 3,
+                "fecha": "10/03/2018",
+                "horario": "16:15",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Vañencia",	
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "10/03/2018",
+                "horario": "18:30",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Levante",
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "01"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "10/03/2018",
+                "horario": "20:45",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Barcelona",
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"			
+            },
+            {
+                "id_partido": 6,
+                "fecha": "11/03/2018",
+                "horario": "12:00",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Real Sociedad",	
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "11/03/2018",
+                "horario": "16:15",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Celta",
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "11/03/2018",
+                "horario": "18:30",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Villareal",
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "02"			
+            },
+            {
+                "id_partido": 9,
+                "fecha": "11/03/2018",
+                "horario": "20:45",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Leganés",	
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "12/03/2018",
+                "horario": "21:00",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Betis",	
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "13"
+            }
+        ]	
+    },
+    {
+        "numero": 29,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "16/03/2018",
+                "horario": "21:00",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Eibar",
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "17/03/2018",
+                "horario": "13:00",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Las Palmas",
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "11"			
+            },
+            {
+                "id_partido": 3,
+                "fecha": "17/03/2018",
+                "horario": "16:15",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Alavés",	
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "31"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "17/03/2018",
+                "horario": "18:30",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Getafe",
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "12"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "17/03/2018",
+                "horario": "20:45",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Espanyol",
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "30"		
+            },
+            
+            {
+                "id_partido": 7,
+                "fecha": "18/03/2018",
+                "horario": "12:00",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Sevilla",
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "18/03/2018",
+                "horario": "16:15",
+                "equipo_local": "Barcelona FC",
+                "equipo_visitante": "Athletic",
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "20"			
+            },
+            {
+                "id_partido": 9,
+                "fecha": "18/03/2018",
+                "horario": "18:30",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Atlético",	
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "21"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "18/03/2018",
+                "horario": "18:30",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Málaga",	
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "00"
+            },
+			{
+                "id_partido": 6,
+                "fecha": "18/03/2018",
+                "horario": "20:45",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Girona",	
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "63"
+            }
+        ]	
+    },	
+    {
+        "numero": 30,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "31/03/2018",
+                "horario": "13:00",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Levante",
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "31/03/2018",
+                "horario": "16:15",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Celta",
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 3,
+                "fecha": "31/03/2018",
+                "horario": "18:30",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Real Madrid",	
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "31/03/2018",
+                "horario": "20:45",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Sevilla",
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "01/04/2018",
+                "horario": "12:00",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Alavés",
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 6,
+                "fecha": "01/04/2018",
+                "horario": "16:15",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Valencia",	
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "01/04/2018",
+                "horario": "18:30",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Real Sociedad",
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "01/04/2018",
+                "horario": "18:30",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Villareal",
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 9,
+                "fecha": "01/01/2018",
+                "horario": "20:45",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Deportivo",	
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "02/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Betis",	
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            }
+        ]	
+    },
+    {
+        "numero": 31,
+        "partidos": [	
+            {
+                "id_partido": 11,
+                "fecha": "06/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Málaga",
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 12,
+                "fecha": "07/04/2018",
+                "horario": "13:00",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Getafe",
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 13,
+                "fecha": "07/04/2018",
+                "horario": "16:15",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Sevilla",	
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 14,
+                "fecha": "07/04/2018",
+                "horario": "18:30",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Eibar",
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 15,
+                "fecha": "07/04/2018",
+                "horario": "20:45",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Leganés",
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 16,
+                "fecha": "08/04/2018",
+                "horario": "12:00",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Las Palmas",	
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 17,
+                "fecha": "08/04/2018",
+                "horario": "16:15",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Atlético",
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 18,
+                "fecha": "08/04/2018",
+                "horario": "18:30",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Girona",
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 19,
+                "fecha": "08/04/2018",
+                "horario": "20:45",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Espanyol",	
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 20,
+                "fecha": "09/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Athletic",	
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            }					
+        ]	
+    },
+    {
+        "numero": 32,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "13/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Betis",
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "14/04/2018",
+                "horario": "13:00",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Villareal",
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 3,
+                "fecha": "14/04/2018",
+                "horario": "16:15",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Valencia",	
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "14/04/2018",
+                "horario": "18:30",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Real Sociedad",
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "14/04/2018",
+                "horario": "18:30",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Celta",
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 6,
+                "fecha": "14/04/2018",
+                "horario": "20:45",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Deportivo",	
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "15/04/2018",
+                "horario": "12:00",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Alavés",
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "15/01/2018",
+                "horario": "16:15",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Levante",	
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "15/04/2018",
+                "horario": "18:30",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Espanyol",
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 10,
+                "fecha": "15/04/2018",
+                "horario": "20:45",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Real Madrid",	
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            }
+        ]	
+    },
+    {
+        "numero": 33,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "17/04/2018",
+                "horario": "19:30",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Sevilla",
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "17/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Barcelona",
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 3,
+                "fecha": "17/04/2018",
+                "horario": "21:30",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Leganés",	
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "18/04/2018",
+                "horario": "19:30",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Getafe",
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "18/04/2018",
+                "horario": "19:30",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Eibar",
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 6,
+                "fecha": "18/04/2018",
+                "horario": "21:30",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Athletic",	
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "19/04/2018",
+                "horario": "19:30",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Girona",
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "19/01/2018",
+                "horario": "19:30",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Atlético",	
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "19/04/2018",
+                "horario": "21:30",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Las Palmas",
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"		
+            },
+
+            {
+                "id_partido": 10,
+                "fecha": "19/04/2018",
+                "horario": "21:30",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Málaga",	
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            }
+        ]	
+    },
+    {
+        "numero": 34,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "20/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Deportivo",
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "21/04/2018",
+                "horario": "13:00",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Getafe",
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 3,
+                "fecha": "21/04/2018",
+                "horario": "16:15",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Valencia",	
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "22/04/2018",
+                "horario": "12:00",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Espanyol",
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "22/04/2018",
+                "horario": "16:15",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Real Sociedad",
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 6,
+                "fecha": "22/04/2018",
+                "horario": "18:30",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Alavés",	
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "22/04/2018",
+                "horario": "20:45",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Betis",
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 9,
+                "fecha": "23/01/2018",
+                "horario": "21:00",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Levante",	
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "09/05/2018",
+                "horario": "18:30",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Real Madrid",
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+
+            {
+                "id_partido": 10,
+                "fecha": "09/05/2018",
+                "horario": "20:45",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Villareal",	
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            }
+        ]	
+    },
+	{
+        "numero": 35,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "29/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Eibar",
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "29/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Girona",
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 3,
+                "fecha": "29/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Las Palmas",	
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "29/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Atlético",
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "29/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Málaga",
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 6,
+                "fecha": "29/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Athletic",	
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "29/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Sevilla",
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "29/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Barcelona",
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+			{
+                "id_partido": 9,
+                "fecha": "29/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Leganés",	
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "29/04/2018",
+                "horario": "21:00",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Celta",	
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            }
+        ]	
+    },
+	{
+        "numero": 36,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "06/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Eibar",
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "06/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Getafe",
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 3,
+                "fecha": "06/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Espanyol",	
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "06/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Alavés",
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "06/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Betis",
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 6,
+                "fecha": "06/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Real Sociedad",	
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "06/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Levante",
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "06/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Real Madrid",
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+			{
+                "id_partido": 9,
+                "fecha": "06/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Deportivo",	
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "06/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Valencia",	
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            }
+        ]	
+    },
+	{
+        "numero": 37,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "13/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Girona",
+                "equipo_visitante": "Valencia",
+                "estadio": "Montilivi",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "13/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Eibar",
+                "equipo_visitante": "Las Palmas",
+                "estadio": "Ipurúa",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 3,
+                "fecha": "13/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Getafe",
+                "equipo_visitante": "Atlético",	
+                "estadio": "Getafe",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "13/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Espanyol",
+                "equipo_visitante": "Málaga",
+                "estadio": "Cornella",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "13/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Alavés",
+                "equipo_visitante": "Athletic",
+                "estadio": "Mendizorroza",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 6,
+                "fecha": "13/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Betis",
+                "equipo_visitante": "Sevilla",	
+                "estadio": "Villamarín",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "13/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Real Sociedad",
+                "equipo_visitante": "Leganés",
+                "estadio": "Anoeta",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "13/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Levante",
+                "equipo_visitante": "Barcelona",
+                "estadio": "Ciudad de Valencia",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+			{
+                "id_partido": 9,
+                "fecha": "13/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Real Madrid",
+                "equipo_visitante": "Celta",	
+                "estadio": "S. Bernabeu",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "13/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Deportivo",
+                "equipo_visitante": "Villareal",	
+                "estadio": "Riazor",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            }
+        ]	
+    },
+	{
+        "numero": 38,
+        "partidos": [	
+            {
+                "id_partido": 1,
+                "fecha": "20/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Las Palmas",
+                "equipo_visitante": "Girona",
+                "estadio": "Canaria",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 2,
+                "fecha": "20/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Atlético",
+                "equipo_visitante": "Eibar",
+                "estadio": "Metropolitano",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 3,
+                "fecha": "20/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Málaga",
+                "equipo_visitante": "Getafe",	
+                "estadio": "La Rosaleda",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 4,
+                "fecha": "20/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Athletic",
+                "equipo_visitante": "Espanyol",
+                "estadio": "San Mamés",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 5,
+                "fecha": "20/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Sevilla",
+                "equipo_visitante": "Alavés",
+                "estadio": "Sanchez Pizjuan",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+            {
+                "id_partido": 6,
+                "fecha": "20/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Leganés",
+                "equipo_visitante": "Betis",	
+                "estadio": "Butarque",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 7,
+                "fecha": "20/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Barcelona",
+                "equipo_visitante": "Real Sociedad",
+                "estadio": "Camp Nou",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 8,
+                "fecha": "20/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Celta",
+                "equipo_visitante": "Levante",
+                "estadio": "Balaídos",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"			
+            },
+			{
+                "id_partido": 9,
+                "fecha": "20/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Villareal",
+                "equipo_visitante": "Real Madrid",	
+                "estadio": "Estadio de la Cerámica",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            },
+            {
+                "id_partido": 10,
+                "fecha": "20/05/2018",
+                "horario": "21:00",
+                "equipo_local": "Valencia",
+                "equipo_visitante": "Deportivo",	
+                "estadio": "Mestalla",
+                "arbitro": "Matheu Lahoz",
+				"resultado": "--"
+            }
+        ]	
+    }
+	
+
+]
+
+

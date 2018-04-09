@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Liga Amateur</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">  
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.0/font/css/open-iconic-bootstrap.min.css" />
+        <link rel="stylesheet" href="css/iaw-p0.css" type="text/css" id="estilo">
+        <script src="js/jquery-3.3.1.min.js"></script>
+        <script src="js/iaw-p0.js"></script>
+
+
+    <body onload="abrirTabla();">
+        <div class="row header-laliga text-center py-3 px-5">			
+            <img class="img-header" src="data/img/laliga.png">
+            <h3 class="text-white my-auto" id="txt-header"> No es futbol. Es LaLiga</h3>
+        </div>
+
+        <div class="container-fluid bg-danger">
+            <div class="container">
+                <div class = "row justify-content-start bg-danger">
+                    <nav class="navbar navbar-dark navbar-expand-md">
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarText">
+                            <ul id="navbar" class="nav navbar-nav">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="index.html">Inicio</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="btn_clasificacion" class="nav-link active" href="posiciones.html">Clasificación</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="btn_calendario" class="nav-link" href="fixture.html">Calendario</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="btn_calendario" class="nav-link" href="estadisticas.html">Estadísticas</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="btn_equipo" class="nav-link" href="equipos.html">Equipos</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="btn-estilo" class="nav-link" onclick="cambiarEstilo();"><span class="oi oi-brush"></span>Cambiar Estilo</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container">
+            <div id="tabla_posicion_completa" class="text-center mt-3 text-dark">
+                <h4> Tabla de Posiciones </h4>
+                <table class="table center tabla-grande table-responsive-xs table-hover tabla-laliga mt-3">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Club</th>
+                            <th scope="col">PJ</th>
+                            <th scope="col">PG</th>
+                            <th scope="col">PE</th>
+                            <th scope="col">PP</th>
+                            <th scope="col">PTS</th>
+                            <th scope="col">GF</th>
+                            <th scope="col">GC</th>
+                            <th scope="col">DG</th>
+
+                        </tr>
+                    </thead>
+                    <tbody id="tabla_pos_completa"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <footer class="container py-5 text-dark">
+            <div class="footer-copyright py-3 text-center">
+                © 2018 Copyright: Iván Petrini - Federico Schmidt
+            </div>
+        </footer>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    </body>
+</html>

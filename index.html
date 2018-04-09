@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Liga Amateur</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.0/font/css/open-iconic-bootstrap.min.css" />
+        <link rel="stylesheet" href="css/iaw-p0.css" type="text/css" id="estilo">
+		<script src="js/jquery-3.3.1.min.js"></script>
+        <script src="js/iaw-p0.js"></script>
+    </head>
+
+    <body onload="abrirIndex();">
+        <div class="row header-laliga text-center py-3 px-5">			
+            <img class="img-header" src="data/img/laliga.png">
+            <h3 class="text-white my-auto" id="txt-header"> No es futbol. Es LaLiga</h3>
+        </div>
+
+        <div class="container-fluid bg-danger">
+            <div class="container">
+                <div class = "row justify-content-start bg-danger">
+                    <nav class="navbar navbar-dark navbar-expand-md">
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarText">
+                            <ul id="navbar" class="nav navbar-nav">
+                                <li class="nav-item">
+                                    <a class="nav-link active" href="#">Inicio</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="btn_clasificacion" class="nav-link" href="posiciones.html">Clasificación</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="btn_calendario" class="nav-link" href="fixture.html">Calendario</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="btn_calendario" class="nav-link" href="estadisticas.html">Estadísticas</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="btn_equipo" class="nav-link" href="equipos.html">Equipos</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="btn-estilo" class="nav-link" onclick="cambiarEstilo();"><span class="oi oi-brush"></span>Cambiar Estilo</a>
+                                </li>
+                            </ul>                          
+                        </div>   
+                    </nav>
+
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container">
+            <div class="row" >
+                <!-- Tabla de posiciones del lado izquierdo-->
+                <div class="col-lg-3 bg-white text-center text-dark border pt-2" id="c1">
+                    <div class="py-0">
+                        <h5 class="display-6 mt-2">Tabla de Posiciones</h5>
+                        <table class="table tabla-grande table-responsive-xs table-hover text-left">
+                            <thead class="thead-dark"><tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">Club</th>
+                                    <th scope="col">Ptos</th>
+                                    <th scope="col">PJ</th>
+                                    <th scope="col">DG</th>
+                                </tr></thead>
+                            <tbody id="tabla_pos"></tbody>
+                        </table>
+                        <div class="py-2 px-2 border-top ">
+                            <a  href="posiciones.html" class="btn btn-dark btn-block">Ver Tabla Completa</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Carousel -->
+
+                <div class="col-lg-6 border pt-2" id="c2">  
+
+                    <div class="col my-0 py-1 text-center">
+                        <h5 class="display-6">Noticias de La Liga</h5>
+                    </div>
+
+                    <div id="carousel-noticias" class="carousel slide px-3" data-ride="carousel">
+
+                        <ol class="carousel-indicators" id="carousel-slide">                            
+                        </ol>
+
+                        <div class="carousel-inner" id="carousel-inn">                          
+                        </div>
+
+                        <a class="carousel-control-prev" href="#carousel-noticias" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Anterior</span>
+                        </a>
+
+                        <a class="carousel-control-next" href="#carousel-noticias" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Siguiente</span>
+                        </a>
+                    </div>
+
+                    <!-- Noticias -->
+                    <div class="container">
+                        <div class="row mt-3" id="noticias-sec">
+
+                        </div>
+
+                    </div>
+                </div>
+
+                <!-- Calendario -->
+
+                <div class="col-lg-3 bg-white text-center text-dark border" id="c3">
+                    <div class="my-2 py-0 pt-2">
+                        <h5 id="num-jornada" class="display-6"></h5>
+                        <table class="table tabla-grande table-responsive-xs table-hover" id="table-calendar">
+                            <tbody id="calendario"></tbody>
+                        </table>
+                    </div>
+                    <a class="btn btn-dark btn-block" href="fixture.html"">Ver Calendario Completo</a>
+
+                </div>
+
+            </div>
+        </div>
+
+        <div class="container">
+
+
+            <footer>
+                <p class="float-right"><a class="top" href="#">Ir arriba</a></p>
+            </footer>
+        </div>
+
+        <footer class="container py-5 text-dark">
+            <div class="footer-copyright py-3 text-center">
+                © 2018 Copyright: Iván Petrini - Federico Schmidt
+            </div>
+        </footer>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    </body>
+</html>

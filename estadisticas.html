@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Liga Amateur</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"> 
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.0/font/css/open-iconic-bootstrap.min.css" />
+        <link rel="stylesheet" href="css/iaw-p0.css" type="text/css" id="estilo">
+        <script src="js/jquery-3.3.1.min.js"></script>
+        <script src="js/iaw-p0.js"></script>
+    </head>
+
+    <body onload="buscarEstadisticas();">
+        <div class="row header-laliga text-center py-3 px-5">			
+            <img class="img-header" src="data/img/laliga.png">
+            <h3 class="text-white my-auto" id="txt-header"> No es futbol. Es LaLiga</h3>
+        </div>
+
+
+        <div class="container-fluid bg-danger">
+            <div class="container">
+                <div class = "row justify-content-start bg-danger">
+                    <nav class="navbar navbar-dark navbar-expand-md">
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarText">
+                            <ul id="navbar" class="nav navbar-nav">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="index.html">Inicio</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="btn_clasificacion" class="nav-link" href="posiciones.html">Clasificación</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="btn_calendario" class="nav-link" href="fixture.html">Calendario</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="btn_calendario" class="nav-link active" href="estadisticas.html">Estadísticas</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="btn_equipo" class="nav-link" href="equipos.html">Equipos</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="btn-estilo" class="nav-link" onclick="cambiarEstilo();"><span class="oi oi-brush"></span>Cambiar Estilo</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="container text-dark ">
+            <h4 class="text-center mt-3"> Estadísticas Individuales</h4>
+            <div class="row justify-content-center text-left mb-3 mt-4">               
+                <div class="col-lg-3"> 
+                    <table id="tabla_goleadores" class="table tabla-grande table-responsive-xs table-hover">
+                        <tbody></tbody>
+                    </table>
+                </div>
+                <div class="col-lg-3"> 
+                    <table id="tabla_asistencias" class="table tabla-grande table-responsive-xs table-hover">
+                        <tbody></tbody>
+                    </table>
+                </div>
+                <div class="col-lg-3"> 
+                    <table id="tabla_amarillas" class="table tabla-grande table-responsive-xs table-hover"> 
+                        <tbody></tbody>
+
+                    </table>
+                </div>
+                <div class="col-lg-3"> 
+                    <table id="tabla_rojas" class="table tabla-grande table-responsive-xs table-hover">  
+                        <tbody></tbody>
+
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <div class="container  text-dark">
+            <h4 class="text-center mt-3"> Estadísticas por Equipo</h4>
+            <div class="row justify-content-center text-left mb-3 mt-4">               
+                <div class="col-lg-4"> 
+                    <table id="tabla_gf_equipo" class="table tabla-grande table-responsive-xs table-hover">
+                        <tbody></tbody>
+
+                    </table>
+                </div>
+                <div class="col-lg-4"> 
+                    <table id="tabla_gc_equipo" class="table tabla-grande table-responsive-xs table-hover">
+                        <tbody></tbody>
+                    </table>
+                </div>
+                <div class="col-lg-4"> 
+                    <table id="tabla_promedio_gol" class="table tabla-grande table-responsive-xs table-hover">
+                        <tbody></tbody>
+                    </table>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- footer -->
+        <div class="container">
+            <footer>
+                <p class="float-right"><a class="top" href="#">Ir arriba</a></p>
+            </footer>
+        </div>
+        <footer class="container py-5 text-dark">
+            <div class="footer-copyright py-3 text-center">
+                © 2018 Copyright: Iván Petrini - Federico Schmidt
+            </div>
+        </footer>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    </body>
+</html>
+

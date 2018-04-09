@@ -1,0 +1,37 @@
+[
+    {
+        "titulo": "Madrid, capital del fútbol",
+        "categoria": "principal",
+        "sintesis": "",
+        "cuerpo": "Un derbi entre Real Madrid y Atlético de Madrid es siempre sinónimo de partidazo.Después del empate vivido en el duelo de la primera vuelta, el primero celebrado en el Wanda Metropolitano, el Santiago Bernabéu tiene la palabra. Los blancos vienen de conseguir cuatro victorias consecutivas en LaLiga Santander, mientras que los rojiblancos han alternado las victorias con las derrotas en sus cinco últimos duelos (3 victorias y dos derrotas).¿Quién se llevará este nuevo capítulo?",
+        "imagen": "data/img/real-atletico.jpg"
+    },
+    {
+        "titulo": "Una final anticipada para Levante y Las Palmas",
+        "categoria": "principal",
+        "sintesis": "",
+        "cuerpo": "La jornada 31 de LaLiga Santander puede marcar un punto de inflexión para Levante UD y UD Las Palmas, dos conjuntos que se encuentran inmersos en la lucha por la permanencia. El cuadro valenciano parte con ventaja, ya que se encuentra fuera de las tres últimas plazas y con siete puntos de ventaja sobre los canarios, por lo que quiere dar un golpe casi definitivo en este duelo. Los amarillos, en cambio, lucharán por recortar distancias y alimentar el sueño de mantenerse un año más en la mejor liga del mundo.",
+        "imagen": "data/img/levante-laspalmas.jpg"
+    },
+    {
+        "titulo": "Europa: lucha de unos y deseo de otros",
+        "categoria": "principal",
+        "sintesis": "",
+        "cuerpo": "El Villarreal, inmerso de lleno en la pelea por los puestos europeos, recibe a un Athletic Club que sabe de sobra lo que es ocupar esos puestos, porque ya lo hizo en temporadas anteriores, y que no olvida ese privilegió por el que también luchará hasta final de temporada, aunque con diez puntos de desventaja. Ambos contendientes empataron a uno en el partido de la primera vuelta, último antecedentes entre amarillos y rojiblancos.",
+        "imagen": "data/img/villareal-athletic.jpg"
+    },
+    {
+        "titulo": "Europa, una meta real para Getafe y Betis",
+        "categoria": "secundaria",
+        "sintesis": "Madrileños y andaluces pondrán en juego tres puntos decisivos para mantener el sueño europeo más cerca que nunca.",
+        "cuerpo": "El estado de forma que atraviesan y la trayectoria que han llevado a lo largo de la temporada convierten a Getafe y Betis en dos de los equipos que mejorres sensaciones han dejado en lo que va de campaña. Dispuestos a poner la guinda del premio de jugar en Europa la próxima temporada, ambos conjuntos se enfrentarán con el objetivo de seguir sumando alegrías este año. Parten con ventaja los béticos que, con los 43 puntos que suman en la tabla, están a las puertas de las plazas con derecho a estar en Europa. Para los locales (39), ganar supondría reducir la distancia con su rival e incrementar las posibilidades de pelear hasta el final.",
+        "imagen": "data/img/getafe-betis.jpg"
+    },
+    {
+        "titulo": "Un derbi son más que tres puntos",
+        "categoria": "secundaria",
+        "sintesis": "El SD Eibar recibe la visita de la Real Sociedad en un encuentro en el que ambos conjuntos se juegan el horno de derrotar al vecino.",
+        "cuerpo": "Con el firme objetivo de sumar tres puntos que tienen un sabor especial cuando se trata de un vecino, SD Eibar y Real Sociedad cruzan sus caminos separados por seis puntos en la clasificación. Los locales, que suman tres partidos consecutivos sin ganar, quieren superar la barrera psicológica de los 40 puntos y dar una alegría a su afición. Los donostiarras, que vivirán el estreno de Imanol Alguacil en el banquillo, aspiran a dar un paso adelante en la clasificación.",
+        "imagen": "data/img/eibar-rs.jpg"
+    }
+]
