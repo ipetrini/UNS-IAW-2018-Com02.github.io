@@ -534,11 +534,10 @@ function obtenerJornada(nro) {
                     else
                         row.append($("<td></td").append($("<span></span>").attr("class", "badge badge-pill badge-danger").text(RL + " - " + RV)));
 
-				                    row.append($("<td></td>").text(partidos[index].equipo_visitante));
-                    row.append($("<td></td>").text(partidos[index].estadio).attr("class", "tabla-estadio"));
-                    row.append($("<td></td>").text(partidos[index].arbitro).attr("class", "tabla-arbitro"));
+                    row.append($("<td></td>").text(partidos[index].equipo_visitante));
+                    row.append($("<td></td>").text(partidos[index].estadio));
+                    row.append($("<td></td>").text(partidos[index].arbitro));
                     $("#tabla_fixture").append(row);
-
                 }
             }
         }
